@@ -98,3 +98,11 @@ A robot built with Arduino and sensors.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,50:003300,100:00FF41"/>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asadbek00-gif/Asadbek00-gif/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
