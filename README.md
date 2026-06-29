@@ -23,12 +23,13 @@
 
 ---
 
-# 📊 GitHub Statistikasi
+# 📈 Faollik Grafigi
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asadbek00-gif&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadbek00-gif&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asadbek00-gif&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
 
 ---
 
