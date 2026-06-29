@@ -1,34 +1,32 @@
-<h1 align="center">👋 Assalomu alaykum, men Asadbek!</h1>
+<h1 align="center">👋 Assalomu alaykum! Men Asadbek</h1>
 
 <p align="center">
-🤖 Robototexnika | 🌐 Tinkercad | 🚀 Arduino
+🤖 Robotics Enthusiast • 🚀 Arduino • 💻 GitHub
 </p>
 
 ---
 
-# 👨‍💻 Men haqimda
+## 👨‍💻 Men haqimda
 
-🎓 O'quvchiman va robototexnikaga juda qiziqaman.
+🎓 Men robototexnikaga qiziqadigan o'quvchiman.
 
-🤖 Asosan Tinkercad yordamida robot va elektronika loyihalarini yarataman.
+🤖 Arduino yordamida turli robot va elektronika loyihalarini yarataman.
 
-⚡ Arduino bilan turli qiziqarli qurilmalar yasashni yoqtiraman.
-
-💡 Har doim yangi texnologiyalarni o'rganishga harakat qilaman.
+💡 Muammolarga yechim topishni va yangi narsalarni o'rganishni yaxshi ko'raman.
 
 🚀 O'z loyihalarimni GitHub orqali boshqalar bilan ulashaman.
 
 ---
 
-# 🛠️ Texnologiyalar
+## 🛠️ Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=arduino,github,git,vscode" />
 </p>
 
 ---
 
-# 📂 Mening loyihalarim
+## 🚀 Mening loyihalarim
 
 🤖 Robot Car
 
@@ -38,16 +36,15 @@
 
 ---
 
-# 📈 GitHub statistikasi
+## 📊 GitHub Statistikasi
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Asadbek00-gif&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadbek00-gif&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asadbek00-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadbek00-gif&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">⭐ Profilimga tashrif buyurganingiz uchun rahmat!</h3>
+<p align="center">
+⭐ <b>Robototexnika va texnologiya olamiga xush kelibsiz!</b> ⭐
+</p>
