@@ -1,30 +1,32 @@
-<h1 align="center">Hi 👋, I'm Asadbek</h1>
+<h1 align="center">👋 Assalomu alaykum, men Asadbek!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=🤖+Robotics+Enthusiast;🚀+Arduino+Projects;💡+Always+Learning+New+Things;⭐+Welcome+to+My+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=🤖+Robototexnikaga+xush+kelibsiz!;💡+Arduino+loyihalarini+yarataman!;🚀+GitHub+sahifamga+xush+kelibsiz!" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Men haqimda
 
-- 🤖 I enjoy building robotics projects.
-- ⚡ I work with Arduino and electronics.
-- 💡 I love creating new ideas and solving problems.
-- 🚀 I share my projects on GitHub.
-- 📚 Always learning something new.
+🔹 Men robototexnikaga qiziqadigan o'quvchiman.
+
+🔹 Arduino yordamida qiziqarli loyihalar yarataman.
+
+🔹 Muammolarni hal qilish va yangi narsalarni o'rganishni yaxshi ko'raman.
+
+🔹 O'z loyihalarimni GitHub'da ulashaman.
 
 ---
 
-## 🛠️ Technologies
+# 🛠️ Texnologiyalar
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,github,git,vscode" />
+<img src="https://skillicons.dev/icons?i=arduino,github" />
 </p>
 
 ---
 
-## 🚀 My Projects
+# 🚀 Loyihalarim
 
 🤖 Robot Car
 
@@ -34,16 +36,16 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistikasi
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Asadbek00-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Asadbek00-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadbek00-gif&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadbek00-gif&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,50:1E3A8A,100:3B82F6&section=footer"/>
 </p>
