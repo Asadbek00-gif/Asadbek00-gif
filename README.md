@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Assalomu alaykum!
 
-<!--
-**Asadbek00-gif/Asadbek00-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Men haqimda
 
-Here are some ideas to get you started:
+🤖 Robototexnika bilan shug'ullanaman.
+💡 Yangi loyihalar yaratishni yaxshi ko'raman.
+🚀 GitHub'da o'z loyihalarimni ulashaman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Biladigan texnologiyalar
+
+- tinkerkad
+- Git
+- GitHub
+
+## 📂 Loyihalarim
+
+- 🤖 Car
+
+## 🎯 Maqsadim
+
+Texnologiya va robototexnika bo'yicha yanada ko'proq loyiha yaratish.
