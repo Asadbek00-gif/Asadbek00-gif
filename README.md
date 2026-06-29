@@ -1,10 +1,8 @@
 <div align="center">
 
-# 💚 Assalomu alaykum, men Asadbek! 💚
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:004d00,100:00FF41&text=ASADBEK&fontSize=55&fontColor=00FF41&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🤖+Robototexnikaga+xush+kelibsiz!;💚+Arduino+Loyihalari;⚡+Kelajak+Muhandisi;🚀+GitHub+Profilimga+Xush+Kelibsiz!" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ASADBEK&fontSize=55&fontColor=00FF41&color=0:000000,100:003300"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF41&center=true&vCenter=true&repeat=true&random=false&width=800&lines=🤖+Assalomu+alaykum!;💚+Men+Asadbekman;🚀+Robototexnikaga+qiziqaman;⚡+Arduino+bilan+loyihalar+yarataman;💻+GitHub+profilimga+xush+kelibsiz!" />
 
 </div>
 
@@ -14,10 +12,10 @@
 
 ```diff
 + 🤖 Robototexnikaga juda qiziqaman.
-+ ⚡ Arduino yordamida yangi loyihalar yarataman.
++ ⚡ Arduino yordamida qiziqarli loyihalar yarataman.
 + 💡 Muammolarni hal qilishni yaxshi ko'raman.
 + 🚀 GitHub'da loyihalarimni ulashaman.
-+ 📚 Har kuni yangi bilimlarni o'rganishga harakat qilaman.
++ 📚 Har kuni yangi narsalarni o'rganishga harakat qilaman.
 ```
 
 ---
@@ -54,7 +52,7 @@
 
 ---
 
-# 🔥 Faolligim
+# 📈 Faollik Grafigi
 
 <div align="center">
 
@@ -66,8 +64,8 @@
 
 <div align="center">
 
-## 💚 Rahmat!
+### 💚 Profilimga tashrif buyurganingiz uchun rahmat!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,100:00FF41"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:004d00,100:00FF41"/>
 
 </div>
