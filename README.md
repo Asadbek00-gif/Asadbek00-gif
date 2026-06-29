@@ -23,11 +23,7 @@
 # 🛠️ Texnologiyalar
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,github,git,vscode,tinkercad" />
-</p>
-
-<p align="center">
-🌐 Tinkercad
+<img src="https://skillicons.dev/icons?i=arduino,github,git,vscode" />
 </p>
 
 ---
