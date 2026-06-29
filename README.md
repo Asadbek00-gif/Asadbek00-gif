@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:004d00,100:00FF41&text=ASADBEK&fontSize=55&fontColor=00FF41&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=ASADBEK&fontSize=60&fontColor=00FF41&animation=fadeIn&color=0:000000,50:003300,100:00FF41"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=🤖+Assalomu+alaykum!;💚+Men+Asadbekman;⚡+Robototexnikaga+qiziqaman;🚀+Arduino+Loyihalari;💻+GitHub+Profilimga+Xush+Kelibsiz!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🤖+Assalomu+alaykum!;💚+Men+Asadbekman;🚀+Robototexnika+Mening+Qiziqishim;⚡+Arduino+Loyihalari;💻+GitHub+Profilimga+Xush+Kelibsiz!" />
 
 </div>
 
@@ -14,29 +14,19 @@
 
 </div>
 
----
-
-# 🤖 Men haqimda
+# 💚 Men haqimda
 
 ```diff
 + 🤖 Robototexnikaga juda qiziqaman.
-+ ⚡ Arduino bilan loyihalar yarataman.
-+ 💡 Yangi g'oyalarni amalga oshirishni yaxshi ko'raman.
++ ⚡ Arduino bilan turli loyihalar yarataman.
 + 🚀 GitHub'da loyihalarimni ulashaman.
-+ 📚 Har kuni yangi bilimlarni o'rganishga harakat qilaman.
++ 💡 Muammolarni hal qilishni yaxshi ko'raman.
++ 📚 Har kuni yangi narsalarni o'rganaman.
 ```
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
-
-</div>
-
----
-
-# ⚙️ Texnologiyalar
+## ⚙️ Texnologiyalar
 
 <div align="center">
 
@@ -46,19 +36,30 @@
 
 ---
 
-# 🚀 Loyihalarim
+<div align="center">
 
-✅ Robot Car
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f0d7b5b8-6b3f-4e8c-b88f-8a0d4dcefd5b.gif" width="650"/>
 
-✅ Smart Traffic Light
+</div>
 
-✅ Smart Robot
+---
+
+# 🤖 Loyihalarim
+
+### 🚗 Robot Car
+Robot mashina loyihasi.
+
+### 🚦 Smart Traffic Light
+Svetoforni avtomatik boshqarish tizimi.
+
+### 🦾 Smart Robot
+Arduino yordamida yaratilgan aqlli robot.
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="600"/>
+<img src="https://user-images.githubusercontent.com/74038190/212897782-9658151a-54ec-4b87-87b4-5e55b2e0f7f6.gif" width="600"/>
 
 </div>
 
@@ -86,9 +87,17 @@
 
 ---
 
+## 🏆 Badgelar
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+![](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+
+![](https://img.shields.io/badge/Robotics-00FF41?style=for-the-badge&logo=robotframework&logoColor=black)
+
+![](https://img.shields.io/badge/Electronics-006400?style=for-the-badge)
 
 </div>
 
@@ -96,8 +105,8 @@
 
 <div align="center">
 
-## 💚 Profilimga tashrif buyurganingiz uchun rahmat!
+## 💚 Rahmat!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,50:004d00,100:00FF41"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:000000,50:003300,100:00FF41"/>
 
 </div>
